@@ -2,11 +2,11 @@
 
 // console.log(!(1 == true));
 
-let obj= {
-    hair: "curley",
-    eye:"red",
-    "hair": "stright"
-}
+// let obj= {
+//     hair: "curley",
+//     eye:"red",
+//     "hair": "stright"
+// }
 
 
 // console.log(obj["hair"]); // stright

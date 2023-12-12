@@ -81,17 +81,18 @@
 //   }
   
 
-let salaries = {
-    John: 100,
-    Ann:200,
-}
+// let salaries = {
+//     John: 100,
+//     Ann: 200,
+// }
 
-let sum = 0;
-
-
-for(let money in salaries) {
-    sum += salaries[money];
-}
+// let sum = 0;
 
 
-console.log(sum);
+// for(let money in salaries) {
+//         sum += salaries[money]
+// }
+
+// console.log(sum);
+
+
