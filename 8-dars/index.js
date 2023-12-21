@@ -189,12 +189,36 @@
 
 // console.log(text2);
 
-let a = "1";
+// let a = "1";
 
-let b = 2;
+// let b = 2;
 
 
 
 // console.log(typeof a.toString());
 
-console.log(typeof (a + b));
+// console.log(typeof (a + b));
+
+
+// let obj = {
+//     name: ,
+//     age: ,
+//     subject:
+// }
+
+// let weather = "Quyosh";
+
+// switch(weather) {
+//     case "Quyosh":
+//     case "Bulut":
+//         console.log("Bugun xavo bulutli");
+//         break;
+//     default :
+//         console.log("Bugun xavo noma'lum");
+// }
+
+
+// console.log(typeof ("21" & "15"));
+
+// console.log(typeof ("4" / "2"));
+
