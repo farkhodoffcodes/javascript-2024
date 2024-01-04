@@ -173,3 +173,4 @@ let obj = {
 // let {name,fname } = obj4
 
 // console.log(name + fname);
+
